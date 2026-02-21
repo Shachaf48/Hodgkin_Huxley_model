@@ -5,6 +5,4 @@ parameters from original paper:
 
 ![Parameters table](images/parameters_table.png)
 
-
-
 doi: https://doi.org/10.1113/jphysiol.1952.sp004764
