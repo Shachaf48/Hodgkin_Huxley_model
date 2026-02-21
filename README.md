@@ -1,6 +1,7 @@
 # Hodgkin_Huxley_model
 biophysical neural spike model -  Hodgkin Huxley
-/nparameters from original paper:
+
+parameters from original paper:
 ![Parameters table](images/parameters_table.png)
 
 
